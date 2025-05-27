@@ -1,8 +1,8 @@
-username
-password
-name
-email
-phone number
-place
+username=tarun
+password=qwerasdf123
+name=Tarun Sirvi
+email=tarun.chaudhary@gmail.com
+phone=9178787878
+place=marwar
 
 
