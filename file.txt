@@ -1,8 +1,8 @@
 username=tarun123
-password=pwd
+password=qwerasdf123
 name=Tarun
-email=tarun.ads@gamil.com
-phone number
-place
+email=tarun.chaudhary@gmail.com
+phone=9178787878
+place=marwar
 
 
