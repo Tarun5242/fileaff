@@ -1,5 +1,5 @@
 username=tarun
-password=qwerasdf123
+password=Merge@Git
 name=Tarun Sirvi
 email=tarun.chaudhary@gmail.com
 phone=9178787878
